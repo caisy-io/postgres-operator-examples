@@ -23,4 +23,4 @@ spec:
       repos:
       - name: repo1
         gcs:
-          bucket: "<YOUR_GCS_BUCKET_NAME>"
+          bucket: "caisy-db-backups"
